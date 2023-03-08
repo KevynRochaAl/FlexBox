@@ -1,0 +1,40 @@
+
+.pai {
+    background-color: bisque;
+    width: 80%;
+    height: 500px;
+    border: solid 2px #000000;
+    margin: 10px;
+}
+
+.andreia {
+    background-image: url(https://th.bing.com/th?id=OIP.Sa_iMQcfMJ5gh8TPP9NZ-wHaD4&w=345&h=181&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2);
+    background-position: center;
+    background-size: cover;
+    border: solid 1px #000000;
+    width: 100px;
+    height: 100px;
+    border-radius: 35px;
+}
+
+.rafael {
+    background-image: url(https://th.bing.com/th/id/OIP.SIqelfZ-n62DNvFGC4ORPgHaFj?pid=ImgDet&rs=1);
+    background-position: center;
+    background-size: cover;
+    border: solid 1px #000000;
+    width: 100px;
+    height: 100px;
+    border-radius: 35px;
+}
+
+.titulo {
+    font-family: cursive;
+}
+
+.cor-padrao {
+    color: rgb(177, 32, 100);
+    width: 100px;
+    height: 100px;
+    border-radius: 5px;
+
+}
